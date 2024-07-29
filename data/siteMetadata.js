@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'The DevOps Blog',
+  title: 'How to DevOps!',
   author: 'Owais Abbasi',
-  headerTitle: 'DevOpsBlog',
-  description: 'A blog created for DevOps Engineers',
+  headerTitle: 'HowtoDevOps',
+  description: 'Different Working Scenarios of DevOps',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://owaisabbasi.com',
