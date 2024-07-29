@@ -13,13 +13,13 @@ const siteMetadata = {
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'owais.abbasi9@gmail.com',
   github: 'https://github.com/owaisabbasi89',
-  x: 'https://twitter.com/owaisabbasi89',
+  // x: 'https://twitter.com/owaisabbasi89',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com/owaisabbasi89',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/owaisabbasi89',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com/owaisabbasi89',
+  // youtube: 'https://youtube.com',
+  linkedin: 'https://www.linkedin.com/in/owaisabbasi89',
+  // threads: 'https://www.threads.net',
+  // instagram: 'https://www.instagram.com/owaisabbasi89',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
