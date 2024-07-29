@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'How to DevOps!',
   author: 'Owais Abbasi',
   headerTitle: 'HowtoDevOps',
-  description: 'Different Working Scenarios of DevOps',
+  description: 'Different Working Scenarios of DevOps Engineering',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://owaisabbasi.com',
